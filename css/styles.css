@@ -1,39 +1,44 @@
 h1{
-    color: blue;
+    color: rgb(0, 0, 0);
     text-align: center;
+    text-decoration: whitesmoke;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2{
-    font-style: italic;
-    font-family: cursive;
-    color: crimson;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 0, 51);
     text-align: center;
 }
 
 h3{
     text-align: center;
-    font-style: normal;
-    color: tomato;
+    font-style: oblique;
+    color: rgb(0, 0, 0);
 }
 
 p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
 body{
-    background-color: lemonchiffon;
+    background-color: rgb(255, 255, 255);
 }
 
 ul{
     text-align: center;
     list-style-position: inside;
+    color: rgb(255, 5, 5);
 }
 
 li{
     text-align: center;
     list-style-position: inside;
+    color:rgb(255, 41, 41)
 }
 
 img{
