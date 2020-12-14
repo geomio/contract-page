@@ -10,6 +10,12 @@ h2{
     text-align: center;
 }
 
+h3{
+    text-align: center;
+    font-style: normal;
+    color: tomato;
+}
+
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: cornflowerblue;
@@ -18,4 +24,23 @@ p{
 
 body{
     background-color: lemonchiffon;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+li{
+    text-align: center;
+    list-style-position: inside;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    width: 50%;
+    
 }
