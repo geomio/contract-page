@@ -1,39 +1,41 @@
 h1{
-    color: blue;
+    color: rgb(77, 253, 145);
     text-align: center;
 }
 
 h2{
     font-style: italic;
     font-family: cursive;
-    color: crimson;
+    color: rgb(46, 219, 30);
     text-align: center;
 }
 
 h3{
     text-align: center;
     font-style: normal;
-    color: tomato;
+    color: rgb(247, 219, 60);
 }
 
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: cornflowerblue;
+    color: rgb(253, 181, 25);
     text-align: center;
 }
 
 body{
-    background-color: lemonchiffon;
+    background-color: rgb(226, 55, 183);
 }
 
 ul{
     text-align: center;
     list-style-position: inside;
+    color: rgb(255, 47, 47);
 }
 
 li{
     text-align: center;
     list-style-position: inside;
+    color: rgb(224, 17, 17);
 }
 
 img{
